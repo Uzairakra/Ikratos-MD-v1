@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '923150513637' //Nomor Bot
+global.nomorown = '923150513637' //Nomor Owner
+global.namebot = 'zari-MD' //Nama Bot
+global.nameown = 'M R _ U Z A I R 🇵🇰' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -66,7 +66,7 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 /*============== STAFF ==============*/
 global.owner = [
   ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['923150513637', 'Z A R I I🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
@@ -105,26 +105,26 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
+global.wm = '「 Z A R I -MD 🇵🇰 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘U Z A I R- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'M R U Z A I R ⚡'
+global.footerTXT = `MR UZAIR \nowner: +92 315 0513637`
+global.fig = `Follow me on instagram:\n\t\tinstagram.com/its_meh_uzair`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 z a r i - m d'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://i.imgur.com/oxpT3LU.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
+global.thumb = 'https://i.imgur.com/oxpT3LU.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/oxpT3LU.jpeg'
+global.thumbbc = 'https://i.imgur.com/oxpT3LU.jpeg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumblvlup = 'https://i.imgur.com/oxpT3LU.jpeg'
+global.hwaifu = ['https://i.imgur.com/oxpT3LU.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickpack = 'x_its zarri_x'
+global.stickauth = `「 MR UZAIR 🇵🇰⚡ 」`
+global.packname = 'S M O O T H   B O Y ❤️‍🩹'
+global.packname2 = 'میں وہ چاند جسکا تیرے بن نا کوئی آسماں❤‍🩹🌙'
 
 global.multiplier = 38 // The higher, The harder levelup
 
