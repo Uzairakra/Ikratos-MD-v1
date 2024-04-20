@@ -114,17 +114,17 @@ global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🎋 z a r i - m d'
 global.author = global.wm
-global.logo = 'https://i.imgur.com/oxpT3LU.jpeg'
+global.logo = 'https://i.imgur.com/doZ73Dk.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.imgur.com/oxpT3LU.jpeg' //Main Thumbnail
-global.thumb2 = 'https://i.imgur.com/oxpT3LU.jpeg'
-global.thumbbc = 'https://i.imgur.com/oxpT3LU.jpeg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.imgur.com/oxpT3LU.jpeg'
-global.hwaifu = ['https://i.imgur.com/oxpT3LU.jpeg']
+global.thumb = 'https://i.imgur.com/doZ73Dk.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/doZ73Dk.jpeg'
+global.thumbbc = 'https://i.imgur.com/doZ73Dk.jpeg' //For broadcast
+global.giflogo = 'https://i.imgur.com/doZ73Dk.jpeg'
+global.thumblvlup = 'https://i.imgur.com/doZ73Dk.jpeg'
+global.hwaifu = ['https://i.imgur.com/doZ73Dk.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
